@@ -66,7 +66,7 @@ function App(props) {
   };
 
   useEffect(() => {
-    getMenu();
+  //  getMenu();
   }, []);
 
   return (
